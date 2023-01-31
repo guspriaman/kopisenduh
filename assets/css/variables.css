@@ -1,7 +1,4 @@
-/**
----------------------------------------
-# 1. ZenBlog template variables 
---------------------------------------------------------------*/
+
 :root {
 
   /* Fonts */
@@ -13,12 +10,12 @@
   /* The *-rgb color names are simply the RGB converted value of the corresponding color for use in the rgba() function */
 
   /* Default text color */
-  --color-default: #212529;
+  --color-default: #000000;
   --color-default-rgb: 33, 37, 41;
 
   /* Defult links color */
-  --color-links: #212529;
-  --color-links-hover: #15171a;
+  --color-links: #000000;
+  --color-links-hover: #000000;
 
   /* Primay colors */
   --color-primary: #212529;
@@ -54,10 +51,10 @@
   --color-red: #df1529;
   --color-red-rgb: 223, 21, 4;
 
-  --color-orange: #fd7e14;
+  --color-orange: #55460d;
   --color-orange-rgb: 253, 126, 20;
 
-  --color-yellow: #ffc107;
+  --color-yellow: #453812;
   --color-yellow-rgb: 255, 193, 7;
 
   --color-green: #059652;
@@ -77,6 +74,8 @@
 
   --color-black: #000000;
   --color-black-rgb: 0, 0, 0;
+
+
 }
 
 /*--------------------------------------------------------------
